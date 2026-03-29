@@ -1,0 +1,598 @@
+===== OEBPS/Text/cover.xhtml =====
+CLASSIFICATION: non-story section
+TITLE: Cover
+Cover
+
+===== OEBPS/Text/copyright.xhtml =====
+CLASSIFICATION: non-story section
+图书在版编目（CIP）数据
+你最喜欢谁？/刘月华，储诚志主编. —2版. —北京：北京大学出版社，2017.5
+（汉语风中文分级系列读物）
+ISBN 978-7-301-28254-0
+Ⅰ.①你…　Ⅱ.①刘…②储…　Ⅲ.①汉语—对外汉语教学—语言读物　Ⅳ.①H195.5
+中国版本图书馆CIP数据核字（2017）第085217号
+书　　名
+你最喜欢谁？（第二版）
+著作责任者
+刘月华 储诚志 主编　温金海 原创
+责任编辑
+李 凌
+标准书号
+ISBN 978-7-301-28254-0
+出版发行
+北京大学出版社
+地　　址
+北京市海淀区成府路205号　100871
+网　　址
+http://www.pup.cn　新浪微博：@北京大学出版社
+电子信箱
+zpup@pup.cn
+电　　话
+邮购部62752015　发行部62750672　编辑部62753027
+印 刷 者
+经 销 者
+新华书店
+850毫米×1168毫米　32开本　2.5印张　39千字
+2008年9月第1版
+2017年5月第2版　2017年5月第1次印刷
+定　　价
+20.00元
+未经许可，不得以任何方式复制或抄袭本书之部分或全部内容。
+版权所有，侵权必究
+举报电话：010-62752024　电子信箱：fd@pup.pku.edu.cn
+图书如有印装质量问题，请与出版部联系，电话：010-62756370
+
+===== OEBPS/Text/TOC.xhtml =====
+CLASSIFICATION: non-story section
+TITLE: Contents
+Contents
+目录
+前言
+Foreword
+主要人物和地方名称 Main Characters and Main Places
+1. 谢红：我在美国等你
+2. 方新：去哪里找电脑？
+3. 小月：你去中关村，能做大事
+4. 钱贵：第一是钱，第二是钱，第三还是钱！
+5. 小月：买的人一定会比现在多
+6. 方新：我不能在这里工作了
+7. 谢红：我们不能这样了
+8. 方新：这是我最快乐的一天
+生词表 Vocabulary list
+练习 Exercises
+练习答案 Answer keys to the exercises
+
+===== OEBPS/Text/Preface1.xhtml =====
+CLASSIFICATION: non-story section
+刘月华
+毕业于北京大学中文系。原为北京语言学院教授，1989年赴美，先后在卫斯理学院、麻省理工学院、哈佛大学教授中文。主要从事现代汉语语法，特别是对外汉语教学语法研究。近年编写了多部对外汉语教材。主要著作有《实用现代汉语语法》（合作）、《趋向补语通释》《汉语语法论集》等，对外汉语教材有《中文听说读写》（主编）、《走进中国百姓生活——中高级汉语视听说教程》（合作）等。
+储诚志
+夏威夷大学博士，美国中文教师学会前任会长，加州大学戴维斯分校中文部主任，语言学系博士生导师。兼任多所大学的客座教授或特聘教授，多家学术期刊编委。曾在北京语言大学和斯坦福大学任教多年。
+温金海
+1984年毕业于厦门大学中文系。现居北京。中国作家协会会员，中国作家协会第六次、第七次全国代表大会代表。主要作品有长篇小说《闯黑道》《中关村进行曲》《封杀》等，散文集《爱心永存》，纪实文学《谁来撑起明天的中国》《让生活充满金色阳光》等。
+
+===== OEBPS/Text/Preface2.xhtml =====
+CLASSIFICATION: non-story section
+Yuehua Liu
+A graduate of the Chinese Department of Peking University, Yuehua Liu was Professor in Chinese at the Beijing Language and Culture University. In 1989, she continued her professional career in the United States and had taught Chinese at Wellesley College, MIT, and Harvard University for many years. Her research concentrated on modern Chinese grammar, especially grammar for teaching Chinese as a foreign language. Her major publications includePractical ModernChinese Grammar(co-author),Comprehensive Studies of Chinese Directional Complements, andWritings on Chinese Grammaras well as the Chinese textbook seriesIntegrated Chinese(chief editor) and the audio-video textbook setLearning Advanced Colloquial Chinese from TV(co-author).
+Chengzhi Chu
+Chu is associate professor at the University of California, Davis, where he is also head of the Chinese section in the Department of East Asian Languages and Cultures. Before that, he was President of the Chinese Language Teachers Association, USA, and is now adviser for a number of academic journals. He has taught at Beijing Language and Culture University and Stanford University.
+Jinhai Wen
+Wen is member of the Chinese Writers’ Association and the delegate of the Sixth and Seventh Representatives’ Congress of the Chinese Writers’ Association. His major works include the novelsWalking in the Underworld,Zhongguancun SonataandBlacklist; the prose collectionLove Lasts Forever; and the documentary literatureWho Will Support China’s Tomorrow?andBring Sunshine to Life.
+
+===== OEBPS/Text/Preface3.xhtml =====
+CLASSIFICATION: non-story section
+前言
+学一种语言，只凭一套教科书，只靠课堂的时间，是远远不够的。因为记忆会不断地经受时间的冲刷，学过的会不断地遗忘。学外语的人，不是经常会因为记不住生词而苦恼吗？一个词学过了，很快就忘了，下次遇到了，只好查词典，这时你才知道已经学过。可是不久，你又遇到这个词，好像又是初次见面，你只好再查词典。查过之后，你会怨自己：脑子怎么这么差，这个词怎么老也记不住！其实，并不是你的脑子差，而是学过的东西时间久了，在你的脑子中变成了沉睡的记忆，要想不忘记它，就得不断地重复，不断地再接触，使沉睡的记忆重新苏醒，变成活跃的记忆，这样才能使学过的东西变得又熟悉，又亲切。
+语言是一个整体，听、说、读、写，不可偏废。对大多数人来说，学一种语言，好像说比较容易，其实，读和写也很重要，甚至常常更重要。因为一个人听和说的机会总是有限的，而阅读却可以常常进行：坐在公共汽车上、一个人在家的时候、睡觉前，都可以拿一本书来读。因此，广泛的阅读，一定会使语言水平有一个很大的提高。所以，不要把阅读看成一种额外的负担，而要看成提高语言水平的一种重要途径。而且，不要把阅读材料看成和教科书完全无关的东西。不要把“阅读”看成一种和听、说、写没有关系的能力。学习新的生词，学习句型，学习写法……教科书能为你做的一切，阅读材料都同样能为你做到。除此以外，阅读材料还能让你接触和了解更多的知识，让你对中文更熟悉，更亲切，更有兴趣。
+怎样阅读才能收到更好的效果？主要有以下几个问题。
+一、在你开始阅读一本故事书之前，最好先看一看故事前边的人物介绍。你先了解一下主要人物，这对理解故事会有帮助。
+二、尽量不查词典。阅读的时候不太在意和不太懂的词语，只把主要精力放在理解整个故事和主要的意思上。查得太多，会打断思路，影响阅读兴趣。但不是一点儿都不查，而是有些词语，该查还要查，特别是影响理解的那些词语。
+三、不要过多地考虑语法。理解主要意思，不等于轻视语言的形式。读的时候，如果能把你感觉比较重要的生词和你觉得写得好的句子，记下来，这对提高语言水平一定会有帮助。但是，不要去分析每一个句子的语法，尽量读得快一些，这对提高阅读能力有好处。
+四、如果能有录音，一边儿听一边儿读，效果会更好；如果没有录音，也不妨读出声来。边听边读或出声地读，不但能提高阅读能力，也会对提高听说能力有帮助。
+五、读完了以后，一定要做后边的练习。故事后边的练习都跟故事内容和主要表达有关。认真做完这些练习，就会知道自己对故事的内容理解得怎么样；做错了，就可以再读故事，弄清楚为什么会错，问题在哪里。练习中的各种题目，也会从不同角度帮助你认识故事中的重要语言点，这对提高你的中文水平一定会有帮助。
+学习语言，当然不只是学习语言的形式，而是要通过语言去了解更多的知识。所以，我们给你准备的故事，不只是为了让你提高语言能力，也是为了让你了解中国人的生活，了解中国的历史和文化。我们希望你一边儿轻轻松松地读，一边儿有更多的收获。
+读吧，读得越多越好！你会发现一个新的世界。
+
+===== OEBPS/Text/Preface4.xhtml =====
+CLASSIFICATION: non-story section
+Foreword
+When it comes to learning a foreign language, relying on a set of textbooks or spending time in the classroom is not nearly enough. Memory is eroded by time; you keep forgetting what you have learned. Haven’t we all been upset when we come across a new word that has already been studied, but it still refuses to stick in memory? If you read something, put it aside, and then some time later happen to need it, it seems as if you are seeing it for the first time and must use a dictionary to understand it. After you have looked it up, you may become annoyed with yourself, thinking: “What’s wrong with my brain? Why can’t I remember this word?” Actually, the problem is not with your brain, but with how memory works. If you want to remember something, you must repeat it. When you revisit what you learned before, the sleeping memory in your brain wakes up again and becomes active.
+Language is an organic whole, with listening, speaking, reading, and writing interacting. Most people think of speaking as the easiest skill, but in fact, reading and writing are equally important and often even more important. Speaking and listening opportunities are limited, but reading can go on almost anytime: on a bus, before bedtime, or when you are alone at home. Wide reading can greatly improve your language level. So don’t look on it as an extra burden but rather as an important way of learning the language. Reading materials should not be regarded as entirely separate from textbooks. Learning to read is not a skill unrelated to listening, speaking, and writing. Learning new vocabulary, mastering sentence patterns, understanding styles of writing—all the things textbooks are supposed to help you with—can also be learned through reading. In addition, reading can expose you to more knowledge, make the language more familiar and friendlier, and increase your interest in it.
+How can you get the most out of reading in a foreign language? Here are a few basic suggestions.
+1. Before you start reading a storybook, it is best to look over the list of characters and their relations. Learning who the major people are will help you understand the story.
+2. Try not to use the dictionary too often. When reading, don’t worry about every detail, but concentrate on understanding the whole story and the main ideas. Looking up too many words interrupts your thinking and affects your interest. But this does not mean never looking up anything. You should still use the dictionary for some words, especially those which prevent you from understanding the story.
+3. Don’t give too much thought to grammar. Understanding the main idea does not mean ignoring the form of the language. If you can note down important new words or well-written sentences while you read, that will help you improve your language level. But try not to analyze the grammar of every sentence, and try to read as fast as you can. This is beneficial for developing your reading skill.
+4. If a recording is available, reading while listening is even better. If you don’t have a recording, reading aloud is also valuable. Listening while reading or reading aloud can not only improve reading ability but also help improve listening and speaking ability.
+5. After finishing the story, be sure to do the exercises at the end. These are based on both the content and the main language expressions of the story. By doing them, you can find out how well you really understand the story, and if you get something wrong, you can go back and find out why. The different kinds of exercises can also help you see important language points from different angles and further improve your Chinese.
+Learning a language is of course not just a matter of learning its forms. Through language, we also learn things. So the stories we have prepared for you are not only meant to improve your language competence. They are also intended to help you understand Chinese life, history, and culture. We hope that as you read these stories with ease and pleasure, you will also gain something more.
+Read as much as you can! You will discover a new world.
+
+===== OEBPS/Text/chapter1.xhtml =====
+CLASSIFICATION: non-story section (front matter for canonical character extraction)
+主要人物和地方名称Main Characters and Main Places
+方新 Fāng Xīn
+A young man who is devoted to developing Chinese software
+谢红 Xiè Hóng
+Fang Xin’s wife
+小月 Xiǎo yuè
+A girl who loves Fang Xin
+钱贵 Qián Guì
+Owner of a small business that trades computer products
+中关村 Zhōngguāncūn: The most famous science park in Beijing, known as China’s Silicon Valley
+美国 Měiguó: America
+文中所有专有名词下面有下画线，比如：方新、中关村
+(All the proper nouns in the text are underlined, such as in 方新、中关村)
+
+===== OEBPS/Text/chapter2.xhtml =====
+CLASSIFICATION: story chapter
+TITLE: 1. 谢红：我在美国等你
+1. 谢红：我在美国等你
+那是1988年8月6日。这一天，谢红要坐飞机去美国学习。那天北京的天气很热。方新和谢红很早就起来了。刚起床，方新就帮谢红准备旅行的东西。谢红要带很多衣服，还有书什么的，很重。
+方新说：“带这么多东西，太重了，你能拿得动吗？别太累了。”
+谢红看起来很高兴，说：“拿得动，这些东西到美国以后都要用，不能不带。美国的东西太贵，到那里再买，要很多钱。现在多带一些去，到那边以后就可以少买一些。马上就去美国了，我觉得很高兴，累一点儿没关系。”
+方新知道，谢红非常想去美国。几年来，她一有时间就看英文书，学习英文，准备到美国去学习、工作。现在真的能去美国了，她怎么能不高兴呢？
+吃饭的时候，谢红说：“以前我已经跟你说过很多次，现在我马上就走了，还想再跟你说说。我走了以后，你一定要多学英文，早一点儿参加TOEFL考试。我给你准备了几本英文书，你多看看。我想要你早一点儿到美国来，我们早一点儿在美国见面！”
+方新没有说什么。他觉得，美国是一个好地方，能去美国学习几年，可以学很多东西。但是，他现在不想去，他有他的打算。
+上大学的时候，方新学的是中文，谢红学的是电脑。认识谢红以后，他看了很多电脑书，很快就喜欢电脑了。但是那时候电脑非常贵，中文软件也不多，很多软件都是英文的，中国人用起来不方便。方新想：我能不能做一种大家喜欢用的中文软件？要是有一个很好的中文软件，大家方便用，那多好啊！做，一定要做这个软件！
+那时候电脑很贵，方新没有钱买，从1988年1月开始，每个星期六和星期天，他常常到谢红工作的大学，用大学里的电脑做软件。现在这个软件已经做完一半。方新想：我一定要把软件做完！他现在不想去美国，也是因为这个。
+他跟谢红说过他的打算，但是谢红说：“做这个软件，你能拿到多少钱？我想不会很多。还是到美国去吧，在美国我们先做几年学生，多学点儿东西，学完再找一个工作，一定比在中国过得好！”
+两人吃了一点儿东西，吃完，方新就送谢红去机场。
+谢红马上要上飞机了，她看着方新，又说：“到美国以后，我马上给你打电话。你一定要听我的啊，马上开始准备考试，早点儿到美国来！我在美国等你！”
+谢红说完就走了。方新远远地看着她上飞机，不知道她什么时候能回来，什么时候能再见到她。
+
+===== OEBPS/Text/chapter3.xhtml =====
+CLASSIFICATION: story chapter
+TITLE: 2. 方新：去哪里找电脑？
+2. 方新：去哪里找电脑？
+送走谢红，方新坐公共汽车回家，到家的时候已经是中午了。他想着他的软件，可是家里没有电脑，怎么做软件？下午，他来到中关村，打算买一个电脑。
+“电脑多少钱？”他去问了几个人。
+他们都说：“最便宜的一万二，也有两万多的。”
+“便宜点儿行吗？”
+他们说：“一万二是最便宜的，不能再便宜了。”
+方新不说什么了。一个电脑要一万二，太贵了！他工作一个月，能拿到的钱只有几百块，不吃饭、不住房子，也买不了！
+不能买电脑，怎么做软件？他想了想，打算请小月帮他。
+方新和小月在同一个大楼里工作。方新刚到北京的时候，有个朋友想介绍他和小月认识，还让他看了小月的照片。那个朋友对他说：“她觉得你不错，不知道你觉得她怎么样？你们见一下吧。”
+一个星期天，方新来到公园和小月见面。他也觉得小月不错，长得很高，很漂亮。但小月是北京人，这让方新觉得不太好。因为方新不是北京人，他来北京的时候，爸爸、妈妈、哥哥、姐姐都对他说：你找女朋友，别找北京人，还是找个家也在我们这里的，两人能常常一起回家看一看。找一个北京人，她不能常常跟你回来。方新觉得他们说得很对，所以想了又想，就没和小月做朋友。
+过了几个月，方新认识了谢红，谢红的家跟方新的家在同一个地方，她长得很好看，人也不错，方新很快就和她结婚了。
+可是，不知道为什么，小月到现在还没有找男朋友，还是一个人。方新和她都在一个地方工作，两人有时候也能见面。
+从中关村回来，方新给小月打电话，客气地说：“小月你好！我是方新。我有点儿事想跟你说，电话里说不方便，请你到楼下来，好吗？过一会儿我在楼下等你。”
+小月想了一会儿，说：“好吧。”
+打完电话，方新马上来到他们工作的大楼，在楼下等着。过了一会儿，从楼里走出一个漂亮的女孩子，她长得很高，穿着一件红衣服，非常好看。她就是小月。
+方新叫小月来到没人的地方，说：“我想请你帮个忙，我知道你们那里有一些电脑，你能不能借给我用一下？”
+小月说：“你想借走电脑？那怎么行！电脑谁都不能拿！”
+方新马上说：“我不是想拿走电脑。我是想晚上到你们那里去，用一下你们的电脑。我在做一个中文软件。现在的电脑软件很多都是英文的，大家用电脑不方便，我想做一个中文软件，帮助大家！但是我家没有电脑，我还没钱买。”
+小月问：“你以前在哪儿做的？用谁的电脑？”
+方新说：“以前我常去谢红她们大学，用大学里的电脑，现在她去美国了，我再去那里不方便。”
+小月又问了他的打算，说：“现在好的中文软件不多，你想做中文软件，是件好事。我应该帮你。但是，这里的电脑是公司的，不是我的，我不能让你用。对不起啊！”
+“是吗？那好吧，没关系……”方新觉得，小月一定是因为以前的事，不高兴，不想帮他。
+小月看着方新，说：“我家里有个电脑，那是我爸爸妈妈送我的生日礼物，今年刚买的，还很新，是一个很不错的电脑。我可以借给你用。”
+方新马上高兴起来：“是真的吗？那太好了！”
+小月说：“你家住在公园后边那个高楼吧？明天上午我把电脑带来，送到你家。”
+第二天上午，小月很早就送电脑来了。看着漂亮的电脑，方新非常高兴。从这天开始，晚上回家以后，他就坐到电脑前，忙着做软件，常常忙到十二点多，有时候工作到一两点。
+
+===== OEBPS/Text/chapter4.xhtml =====
+CLASSIFICATION: story chapter
+TITLE: 3. 小月：你去中关村，能做大事
+3. 小月：你去中关村，能做大事
+谢红到美国以后，很快就打电话给方新，高兴地说：“我到了，到美国了！那天我先坐了十多个小时飞机，下飞机以后，又坐了两个多小时汽车，到大学的时候已经是下午五点多。这个大学学生很多，有两万多，中国学生只有八十多个。大学很大，也很漂亮，像公园一样。我住在学校里边，上课、上图书馆都很方便，买东西的地方也很近，房间里还有电视。昨天我还去游泳了。现在我天天都要上课，觉得有点儿累，但是我很快乐！”
+电话打了很长时间，谢红说了很多美国的事。但是这以后很多天，谢红没有再打电话来。
+过了半个多月，方新接到了谢红的信，信里说：
+方新，
+打电话太贵了，上一次打了一会儿，用了一百多块钱，太贵了！你快来美国吧，我们就不用打这么贵的电话了，那样多好。以后我不能再给你打电话，我们还是写信吧，写信便宜一点儿。你英文学得怎么样了？一定要好好儿复习，早点儿参加考试。
+1988年8月25日
+谢红还寄来几张照片，照片上的地方，有的是图书馆，有的是她上课的教室，还有她住的那个楼。照片上，谢红都很快乐。但是方新给谢红写信的时候，不知道应该怎么说。要是告诉谢红他在做软件，没有学英文，她一定很不高兴。谢红刚到美国，到一个新的地方，一定也很难，他想让她快乐一点儿。
+在信里，方新只说他很想她，叫她在美国好好儿学习。他没有告诉谢红他在做软件。
+方新想早点儿做完软件，天天晚上在电脑前忙到一两点。
+这几个星期，小月常常打电话问他：“软件做得怎么样了？喂，不是一天两天就能做得好的，别太累了，晚上早点儿睡觉，太晚睡觉身体会出问题的！”
+这天晚上，方新在家里做软件，小月来到了他家，她还带着一些东西。
+“你吃饭没有？”走到房间里，小月问他。
+“还没有。”方新说。
+她又问：“这几天你在哪儿吃饭？”
+方新告诉她说：“谢红在家的时候，天天她做。她走了以后，我一个人做得不多，就买一些东西吃。有的时候忘了买，就吃一点儿水果。”
+“这怎么行啊！这样身体一定会出问题！我给你带了一些饭菜来，你快吃吧。”
+小月拿出她带的东西，方新一看，都是他喜欢吃的饭菜。他也不客气，很快就吃完了，高兴地说：“我很长时间没吃到这么好的菜了，你做的菜真不错！”
+小月又说：“天气有一点儿冷了，你要多穿点儿衣服，别感冒了。”
+方新说：“我知道，我身体还行，很少感冒。”
+小月坐了一会儿，就走了。几天后，她又做了一些饭和菜，送给方新，方新很喜欢，吃了很多。
+就这样过了两个多月。这一天，方新给小月打电话，高兴地说：“晚上你有时间吗？我的软件做完了，想请你来看一下！”
+小月听了，高兴地说：“太好了，我一定去看看！”
+下午五点半，方新刚到家，小月就来了。方新请她到电脑前，看那个软件。小月说：“真不错，比我想的还好！这是中文软件，中国人用起来很方便。我没想到你在这么短的时间里，能做出这样好的软件，这个软件真好，非常好！”她比方新还高兴。
+方新说：“我得谢谢你帮我。你不帮我，我一定做不出来。”
+小月说：“不要客气。你给大家做好事，我应该帮你。软件做完了，你有什么打算？”
+方新说：“我还有很多事要做。我要让大家知道这个软件，让大家来买这个软件、用这个软件！我想换个工作，准备去中关村！你觉得怎么样？我去中关村好不好？”
+小月说：“我觉得很好！人应该做他想做的事。你能做这么好的中文软件，到中关村去，一定能做很多事，能做大事！可是……”
+“可是什么？”方新问。
+“可是谢红还在美国等着你呢，你们很长时间不在一起，也不好。”
+
+===== OEBPS/Text/chapter5.xhtml =====
+CLASSIFICATION: story chapter
+TITLE: 4. 钱贵：第一是钱，第二是钱，第三还是钱！
+4. 钱贵：第一是钱，第二是钱，第三还是钱！
+上午，方新坐公共汽车来到中关村，找一个叫钱贵的人。钱贵是谢红的同学，前几年也在大学里做老师。几个月前来中关村开了一家电脑公司。可是，方新很长时间没和他见面，不知道他在中关村什么地方，也不知道他的公司的名字。
+“你们这里有个叫钱贵的先生吗？你们知道他在哪里吗？”
+他问了很多人。找了一个多小时，在一个小房子里找到了钱贵。
+钱贵一看是他，很高兴：“啊，是方新！好久不见，你怎么来了？来买电脑吗？”
+方新参观了一下他的公司，说：“我不买电脑。我做了一个中文软件，想请你看一下有没有人买。”方新介绍了一下他的软件。
+钱贵看了一会儿，说：“这个软件是中文的，很不错，中国人用起来会很方便！这样的软件，应该有很多人喜欢。你有什么打算呢？要我怎么帮你？”
+方新说：“我想到中关村来，但是现在我的钱不多，不能开公司。你们公司要不要人？我能不能到你们这儿来？我想跟你们一起，好好儿做点儿事，让大家买我的软件，用我的软件！”
+钱贵说：“你想到中关村来，我很高兴。我们公司还很小，但是我们好好儿工作，公司一定会一年比一年好。现在是小公司，过几年就会是一个大公司了！现在大家能拿到的钱不多，过几年一定会比现在好！”
+方新想了想，觉得他的公司现在虽然不大，但是电脑很多，而且他觉得钱贵这人不错，在这里一定能做很多事，所以第二天就来到钱贵的公司上班了。
+第二天，方新来到公司上班，钱贵对他说：“你到我们的公司来，我们就是一家人了。我们公司的人，一定要常常想着一个字：钱！第一是钱，第二是钱，第三还是钱！在这里，看一个人工作得好不好，就看他能给公司拿回来多少钱。你好好儿工作吧，怎么做钱来得快，就怎么做！”
+钱贵的话，让方新有点儿不高兴。但是他想，刚到中关村，先工作一段时间吧，别想太多。
+几天以后，小月打电话给方新，问：“怎么样？买软件的人多吗？”
+方新说：“不多，三四天了，就十多个人买。我看，想在中关村做事，也很难！”
+小月说：“刚开始一定有点儿难。慢慢地，知道的人多了，买的人一定会一天比一天多。”
+
+===== OEBPS/Text/chapter6.xhtml =====
+CLASSIFICATION: story chapter
+TITLE: 5. 小月：买的人一定会比现在多
+5. 小月：买的人一定会比现在多
+谢红又从美国给方新写信了。她在信里说：
+方新：
+昨天我打电话找你，接电话的人说，你已经不在那里工作了，说你到中关村去了。这么大的事，你为什么不告诉我？这几个月你做了些什么？我叫你要好好儿复习英文，准备考试，但是你一点儿也没有学！你为什么要这样？你不想早点儿来美国？不想跟我在美国见面？你不爱我了吗？我再跟你说一次，别去中关村了，马上开始学英文！
+谢红1988年12月5日
+方新很快给谢红写信，说：“对不起，我没把这件事告诉你。我喜欢新的工作，喜欢中关村，现在我不能去美国。我像以前一样爱你。你学完以后，早点儿回来吧。我们还是住在北京好。”
+信很快寄走了。方新不知道谢红看了他的信，会怎么想，不知道她懂不懂他的意思。他等谢红回信，可是等了三个星期，她没有回信，等了一个多月，她还是没有回信。他不知道谢红为什么不回信，想打电话问谢红，可是打电话到美国太贵了，他想了想，没有打。
+这天下午，方新接到小月的电话，小月问他：“今天晚上你有时间吗？能不能到我这里来一下？我有几个同学要来，他们想认识你。你来跟他们见个面吧。”
+方新很长时间没见小月了，也想和她见面，就说：“好，我一定来。”
+晚上，他坐车来到小月工作的地方。这个时候已经是六点多，很多人早回家了，大楼里人很少。小月在三楼，走到三楼，远远地方新就听到有个女的在说：“……这是一个新的软件，知道的人还不多。我用了几个月，觉得非常好，很方便。我的电脑里有这个软件，请大家看一看……”
+方新一听，是小月！她在跟什么人介绍他的软件？他跑到小月工作的房间的门前，看到她的房间里有七八个人，有男的有女的，都是二十多岁。小月坐在电脑前，给他们介绍软件。看到方新，她忙说：“啊，方新来了！快来，大家等着你呢！”
+方新走进去，小月介绍说：“这就是方新！这个软件就是他做的！”大家都很高兴，说：“您好！方新先生！”小月又对方新说：“他们都是我的同学、朋友，知道我这里有个好软件，都想来我这里看一看。今天我就把他们叫来了！”
+她看了看大家，高兴地说：“喂，大家有什么问题，就问方新吧！”
+方新说：“大家好！谢谢大家！”
+一个女的问：“听小月说，你在大学里学的不是电脑。你为什么能做出这样的软件？”
+方新说：“我在大学不是学电脑的，但是我喜欢电脑，这几年看过很多电脑的书。我觉得玩儿电脑、做软件很有意思。”
+一个男的说：“刚才听了小月的介绍，觉得你的软件很不错，我准备买一个。我还要告诉我的朋友们，叫他们也买。”
+方新说：“那太好了！谢谢你们！”
+“谢谢你给我们做了一个好软件！”大家对方新说。
+他们在一起说得很快乐。半个小时以后，有个男的说：“时间不早了，我们先走吧。方新先生，很高兴认识您！再见！”
+方新说：“我也很高兴认识你们。大家慢走，再见！”
+他们走后，方新问小月：“你怎么想到要跟他们介绍软件？”
+小月说：“你的软件很好，但是很多人还不知道。我帮你介绍介绍，给他们上一课。我告诉我的这些同学，他们再告诉他们认识的人。这样，不用很长时间，知道这个软件的人就多了，买的人也就多了。”
+方新说：“小月，你帮我太多了！你还没吃饭吧？我们一起去吃，我请你！”
+小月说：“好啊。现在你的钱比我多，应该你请！”
+两人就一起出去，找地方吃饭。
+
+===== OEBPS/Text/chapter7.xhtml =====
+CLASSIFICATION: story chapter
+TITLE: 6. 方新：我不能在这里工作了
+6. 方新：我不能在这里工作了
+几天后，小月的几个同学来到中关村，找方新买了一些软件。过了几天，又有一些人来这里买软件。来买软件的人一天比一天多了。
+有一天中午，一个二十多岁的女人来到他们公司。方新客气地问：“小姐，您想买什么？”
+那个小姐说：“我听我的同学说，你们这里的中文软件不错，我想买一个，还想买个新电脑。”
+方新说：“好啊，我想问一下，你为什么想买我的软件？”
+那个小姐说：“我不懂电脑，但是我很想学，我想买一个好用的软件。”
+钱贵听了，马上走过来，说：“这个软件非常好，买的人很多。你买了一定不会错！电脑一个一万五，软件一个五百，一共一万五千五。你先给钱，下午我们就给你送电脑。”
+那个小姐说：“我住得很远，你们能送吗？”
+钱贵说：“送！送到你家！”
+小姐很高兴，马上拿出钱，说：“你们对客人这么好，你们真好啊。”
+那个小姐走后，钱贵拿着钱，说：“太好了，又给我们送钱来了！”
+下午，他拿出一个电脑，准备给那个小姐送去。方新过来一看，觉得不对，说：“为什么给她这样的电脑？一万五的电脑，不是这一种。你拿错了吧？这是九千的那种。”
+钱贵说：“怎么了？我没有拿错，就给她这种。你没听她说吗？她不懂电脑，给她哪种电脑，她也不懂。给她便宜的，她不会知道。”
+方新说：“她不懂，我们就给她不好的东西？不能这样！快换一万五的，应该给她哪一种就给她哪一种，我们不能对不起她。别人知道了，以后谁还来买我们的东西？”
+钱贵不高兴了，说：“方新先生，我们为什么来中关村？还不是因为一个‘钱’字！我知道这个电脑不太好，但给她这个电脑，我们能拿到的钱多！电脑有什么问题，让她拿回来换不就行了？”
+方新不说什么了。第二天，方新来到公司，看到那个小姐站在那里，正在大声说什么。原来，那个电脑有问题，来换了。电脑虽然换了，但是这件事让方新很不高兴。
+这件事让方新很不高兴，他觉得很对不起那个小姐。晚上回家后，他给小月打了个电话，说：“钱贵太爱钱了！因为钱，他可以做对不起别人的事。做人怎么能这样？我不想在他那里工作了，想换个地方。但是去哪儿，做什么，还没想好。”
+小月说：“你说得对！大家都喜欢钱，但不能因为钱就做不好的事，就做坏事。我也觉得你不能再跟他一起工作。他这么做，会出大事。这几个月，很多人用了你的软件，都说不错，但是也有一些不太好的地方。我想，你先把软件做得好一些，过几个月也开个公司。”
+方新觉得，小月说的和他想的一样。
+第二天，方新来到公司，对钱贵说：“我来公司这么长时间，你对我很不错，谢谢你！可是，我现在有了新的打算，不能在你这里工作了，很对不起！”
+钱贵说：“你要走？你真要走，我不能不让你走。你别忘了，走到哪里，我们都是朋友。有什么事要我帮忙，就打电话给我。”
+
+===== OEBPS/Text/chapter8.xhtml =====
+CLASSIFICATION: story chapter
+TITLE: 7. 谢红：我们不能这样了
+7. 谢红：我们不能这样了
+从中关村回来后，方新天天在家，上午一起来，吃点儿东西，就坐到电脑前做软件。累了，就听一会儿音乐。
+这一天，他接到谢红从美国寄来的信，他很高兴，因为谢红已经很长时间没来信了，他很想她，不知道她在美国怎么样。谢红在信里说：
+方新：
+我很长时间没给你写信了。这几天，我天天都在想我们的事，想得很多很多。你这人很好，想到中关村做你喜欢的事，这没有错。以前我叫你不要去中关村，现在想这是不对的，我不应该不让你去。谁都想做他喜欢的事，对不对？我呢，以前上了四年大学，但我觉得学的东西还不多，我想在美国多学点儿东西。我想，这也没有错。我们都没什么错。
+问题是，你有你的打算，我也有我的打算。你不想到美国来，我又不想马上回中国。我不能帮你，你也不能帮我。你常常在电脑前坐好几个小时，忘了喝水，忘了吃饭。家里没有一个女人来帮你，你的身体很快就会出问题的。所以，我们长时间不在一起，对你对我都不好，我们不能这样了。我想，我们还是离婚吧。
+你以前说过，我是你认识的最好的女人。现在我想对你说，好女人很多，哪儿都有。离婚后，你可以找一个比我好的女人；可以好好儿做你想做的事。我呢，也在这里好好儿学习。我们还是好朋友，你有什么事要我帮的，一定要告诉我。
+我还想对你说：这几年跟你在一起，我过得很快乐，谢谢你……
+谢红1989年3月20日
+看着谢红的信，方新非常不高兴。他马上给谢红打电话，问：“为什么要离婚？我们能不能不这样？”
+谢红说：“我也不想这样。但是你不想到美国来，我们长时间不在一起，对你很不好。离婚对我们两个人都好……”
+那时候从北京打电话到美国非常贵，他们说话的时间不能太长。
+打完电话，方新一个人来到公园，走了两个多小时。他拿出谢红的照片，看了又看。那天，送谢红上飞机的时候，他怎么也没想到，他们会这样。但是，想了很久，他觉得，谢红说得也对。
+两个星期后，方新和谢红离婚了。
+离婚以后，方新哪儿也没去，天天在房间里看书、写软件。慢慢地，他觉得房子里有什么地方不太对。什么地方不对？小月很久没有来了！
+
+===== OEBPS/Text/chapter9.xhtml =====
+CLASSIFICATION: story chapter
+TITLE: 8. 方新：这是我最快乐的一天
+8. 方新：这是我最快乐的一天
+方新离婚后，小月再也没有来过他家，也没给他打过电话。方新想，她怎么电话也不打一个？跟以前不一样啊。以前，她两三天就会给他打电话，有时候一天打几次，一会儿问他买软件的人多不多，一会儿问他要不要她帮着做什么。但是方新离婚后，好几个星期了，她一个电话也没有！
+开始的时候，方新还在想着谢红，想着他的软件，没有多想这个问题。时间长了，他觉得不太对，觉得这里有点儿什么事，有点儿问题。慢慢地，他知道了：他是在想小月，一天比一天想。他觉得他已经喜欢上小月了！
+这天下午，他给小月打了一个电话，“小月，你好，你是不是很忙？”
+“忙？有一点儿吧。有什么事儿吗？”这一次，小月跟以前打电话的时候不一样，她没有问方新好不好，也没有问他的软件。
+“好长时间没见你。晚上你有时间吗？我们一起吃饭，好吗？”方新说。
+小月非常客气：“啊，对不起，我有事，不能去……”
+“是吗？”方新说，“你有什么事？要我帮你吗？”
+小月说：“啊……不，不用了……我弟弟病了，我带他去看病，买一点儿药……”
+“那好吧，哪天你有时间，请给我来个电话，我们一起吃饭。我请你！”
+小月说：“不客气，等有时间再说吧。”
+方新等着小月的电话。等了四五天，她还是一个电话也没有。他又给小月打电话，问她：“还忙吗？几号有时间？”
+小月说：“不客气，你的事这么多，就别吃饭了吧。我也有事。”
+方新问：“你怎么这么忙？你有什么事？”
+小月说：“啊，也没什么，想事啊。”
+方新问：“想什么事？”
+小月说：“想……想一个人。”
+方新马上又问：“想谁？是男的吗？”
+小月说：“是男的，怎么了？”
+方新说：“没什么。小月，你有男朋友了？”
+小月想了想，“不知道啊……现在不好说……”
+方新想了一会儿。第二天，方新请了半天假，在家里做了很多好菜。
+下午五点多，他把房间好好儿收拾了一下。六点半，他看看钟，小月怎么还不来？是不是不来了？但是七点的时候，她来了。走进方新的房间，小月一看，桌子上放着很多好吃的，很漂亮，很高兴。
+第二天下午，他又给小月打电话，对她说：“小月，请你今天晚上到我这里来一下，一定要来，我有事找你！”
+小月问：“什么事啊？电话里说不就行了！”
+方新说：“电话里不好说，你一定要来，我等着你！”
+小月没有说“行”。但是方新觉得，这次她应该会来。
+进了房间后，两人先吃饭。方新虽然很饿了，但是不知道为什么，没吃多少，也不怎么说话。他不知道应该怎么跟小月说。
+过了一会儿，方新说：“我不知道你是不是有了男朋友，但是我想跟你说，我太想你了，你再不来，我就准备去找你！你有男朋友了吗？他是谁？”
+小月说：“我没说我有男朋友啊，那是你说的。”
+方新说：“你说你想一个人，还是个男的，他是谁？”
+方新不说话了。房间里很安静。
+小月吃了几口菜，也不说什么。
+他问：“小月，为什么几次请你，你都不来？”
+小月说：“我想让你一个人想一想，是不是真的想我，是不是真的喜欢我。我呢，也要想一想。”
+方新马上又高兴起来，“小月，你也在想着我，这太好了！我喜欢你，我爱你！我想跟你结婚，我们结婚吧！”
+小月看着他，“你不是不想找北京人吗？”
+方新说：“那是以前的事，不要说了。现在我知道了，哪儿的人没关系，问题是两个人想的要一样，能想到一起、说到一起！跟我结婚吧，好吗？”
+小月想了想，说：“这几天我也想了很多。我也喜欢你，也想你……”
+方新非常高兴，“小月，谢谢你！今天是我最快乐的一天！”
+过了一会儿，小月又说：“你和谢红怎么会离婚呢？她比我漂亮，很多地方都比我好，你们不应该离婚。”
+方新说：“离婚的事是她先说的。你知道，她在美国不想回来，可是我又不想去美国。”
+小月说：“你说得也对。可是你不能因为离婚了，就说她这里不好那里不好。什么时候她回中国来了，我们一起吃饭，见一见。你们离婚了，但还可以做朋友。”
+方新说：“小月，你这样想，太好了！”
+过了一个月，方新和小月结婚了。又过了一些天，方新新的软件也写完了。新软件比以前那个好得多、方便得多。
+方新打算再回中关村，他要开一个他的公司，做他想做、喜欢做的事。
+
+===== OEBPS/Text/chapter10.xhtml =====
+CLASSIFICATION: non-story section
+生词表Vocabulary list
+1
+起床qǐ chuáng: get up (get out of bed)
+2
+拿得动ná de dòng: can (have the strength to) carry
+3
+看起来kàn qilɑi: it looks as if...; seemingly
+4
+以后yǐhòu: after, later
+5
+几年来jǐ nián lái: since a few years ago
+6
+真的zhēnde: really, indeed
+7
+几jǐ: several, a few
+8
+电脑diànnǎo: computer
+9
+软件ruǎnjiàn:software programs
+10
+用起来yòng qilɑi: when using it (one will feel...)
+11
+要是yàoshi:if, suppose, in case
+12
+每měi: every, each
+13
+常常chángcháng: often, frequently
+14
+拿到nádào: get, obtain
+15
+机场jīchǎng: airport
+16
+见到jiàndào: see, meet
+17
+只zhǐ: only
+18
+出问题chū wèntí: have a problem; go wrong
+19
+忘了wàng le: forgot, have forgotten
+20
+短duǎn: short (time)
+21
+换huàn: change, switch
+22
+公司gōngsī: company
+23
+一家人yì jiārén: one family
+24
+学校xuéxiào: school; university
+25
+里边lǐbiɑn: inside, within
+26
+房间fángjiān: room
+27
+天天tiāntiān: every day
+28
+好久hǎojiǔ: quite a long time
+29
+好好儿hǎohāor: well; carefully; properly
+30
+快kuài: quickly; fast; rapidly
+31
+地方dìfɑng: place
+32
+最zuì: most
+33
+对duì: right, correct, true
+34
+一定yídìng: certainly, sure to; definitely
+35
+高楼gāolóu: tall building; skyscraper
+36
+生日礼物shēngrì lǐwù: birthday gift, birthday present
+37
+红衣服hóng yīfu: red clothes; the red thing/clothes
+38
+没有学méiyou xué: didn’t study, haven’t studied
+39
+爱ài: love
+40
+大楼dàlóu: large building
+41
+远远地yuǎn yuǎn de: from far away
+42
+见个面jiàn ge miàn: see, meet
+43
+课kè: class, lesson
+44
+中间zhōngjiān: between; in the middle
+45
+离婚lí hūn: divorce
+46
+角jiǎo: a corner
+47
+好几个星期了hǎo jǐ ge xīngqī le: there have been many weeks...
+48
+没有méiyou: not have, there is not
+
+===== OEBPS/Text/chapter11.xhtml =====
+CLASSIFICATION: non-story section
+练习Exercises
+1.谢红：我在美国等你
+根据故事选择正确答案 Select the correct answer for each of the questions.
+（1）a. 谢红1988年去美国学习了。
+b. 谢红2008年去美国学习了。（　）
+（2）a. 谢红带很多东西去美国，因为她很高兴。
+b. 谢红带很多东西去美国，因为美国的东西很贵。（　）
+（3）a.谢红让方新马上去美国。
+b.谢红让方新早一点儿参加TOEFL考试。（　）
+（4）a.方新和谢红都想去美国。
+b.只有谢红想去美国。（　）
+（5）a.方新喜欢电脑。
+b.方新喜欢看英文书。（　）
+（6）a. 方新非常想做中文软件。
+b. 方新非常想去美国。（　）
+2. 方新：去哪里找电脑？
+根据故事选择正确答案 Select the correct answer for each of the questions.
+（1）a.方新的软件已经做完了。
+b.方新的软件还没有做完。（　）
+（2）a. 方新知道小月有男朋友了。
+b. 方新知道小月还没有男朋友。（　）
+（3）a.小月的电脑是刚买的。
+b.小月的电脑不是新的。（　）
+（4）a.小月不想借给方新她的电脑。
+b.小月要把她的电脑借给方新用。（　）
+（5）a.小月觉得方新做软件不太好。
+b.小月觉得方新做软件是在做好事。（　）
+（6）a.方新常常工作到很晚。
+b.方新每天晚上都只工作两个小时。（　）
+3. 小月：你去中关村，能做大事
+根据故事回答问题 Answer the questions according to the story.
+（1）谢红是什么时候到美国的？
+（2）谢红在美国怎么样？
+（3）谢红给方新写信，主要跟他说了什么？
+（4）为什么方新给谢红写信的时候，没有告诉她他在做软件？
+（5）小月给方新做了什么菜？
+（6）方新的软件是什么时候做完的？
+（7）小月觉得方新应该做什么？
+4. 钱贵：第一是钱，第二是钱，第三还是钱！
+根据故事选择正确答案 Select the correct answer for each of the questions.
+（1）a. 方新找了很长时间才找到钱贵。
+b. 方新常常去钱贵的公司。（　）
+（2）a. 钱贵觉得方新的软件很好。
+b. 钱贵很不喜欢方新的软件。（　）
+（3）a. 方新很了解中关村。
+b. 方新很快就想到中关村工作。（　）
+（4）a.钱贵觉得在中关村工作，最重要的是把工作做好。
+b.钱贵觉得在中关村工作，最重要的是“钱”。（　）
+（5）a.开始到中关村以后，方新的软件卖得不太好。
+b.开始到中关村以后，方新的软件卖得很好。（　）
+（6）a.小月说，知道的人会一天比一天多，所以来买软件的人就会一天比一天多。
+b.小月说，买软件的人会一天比一天少。（　）
+5. 小月：买的人一定会比现在多
+根据故事选择正确答案 Select the correct answer for each of the questions.
+（1）a.谢红看了方新的信后，马上给他回信了。
+b.谢红很长时间没有给方新回信。（　）
+（2）a.那天到小月那里去的人，都是小月的同学、朋友。
+b.那天到小月那里去的人，有的认识小月，有的不认识小月。（　）
+（3）a.来看方新的人都不太喜欢方新的软件。
+b.来看方新的人都觉得方新的软件不错。（　）
+（4）a.很多人告诉了他们的朋友，说方新的软件很不错。
+b.大家都说，方新的软件太贵了，不能买。（　）
+（5）a.小月吃完饭以后，就回家了。
+b.方新和小月后来一起出去吃饭了。（　）
+6. 方新：我不能在这里工作了
+根据故事判断对错 true or false.
+（1）那个小姐买了软件，也买了电脑。（　）
+（2）一万五千块买了电脑和软件。（　）
+（3）那个小姐知道一万五的电脑是什么样的。（　）
+（4）方新觉得钱贵这样做不太好。（　）
+（5）后来，那个小姐又回到公司，给钱贵送来了一些钱。（　）
+（6）小月觉得方新应该开个公司。（　）
+（7）方新很高兴钱贵给那个小姐拿了不太好的电脑。（　）
+7. 谢红：我们不能这样了
+根据故事判断对错 true or false.
+（1）谢红觉得方新想到中关村去做事，是不对的。（　）
+（2）谢红说，她在美国也想做她喜欢做的事。（　）
+（3）谢红觉得，好女人很多，哪儿都有。（　）
+（4）方新觉得谢红说得不对。（　）
+8. 方新：这是我最快乐的一天
+根据故事回答问题 Answer the questions according to the story.
+（1）方新为什么觉得不对？
+（2）为什么小月不想来跟方新吃饭？
+（3）方新为什么要做很多好菜？
+（4）为什么方新觉得吃饭的时候应该说些什么，但又不知道说什么？
+（5）小月为什么问方新为什么不来找北京人？
+（6）为什么小月说，谢红回中国来以后，可以请她来一起吃饭？
+（7）为什么方新说，这一天是他最快乐的一天？
+
+===== OEBPS/Text/chapter12.xhtml =====
+CLASSIFICATION: non-story section
+练习答案Answer keys to the exercises
+1. 谢红：我在美国等你
+（1）a　（2）b　（3）b　（4）a　（5）b　（6）a
+2. 方新：去哪里找电脑？
+（1）b　（2）b　（3）a　（4）b　（5）a　（6）a
+3. 小月：你去中关村，能做大事
+（1）T　（2）F　（3）F　（4）T　（5）T　（6）F　（7）F
+4. 钱贵：第一是钱，第二是钱，第三还是钱！
+（1）b　（2）b　（3）a　（4）b　（5）a　（6）a
+5. 小月：买的人一定会比现在多
+（1）b　（2）a　（3）b　（4）a　（5）a
+6. 方新：我不能在这里工作了
+（1）T　（2）T　（3）F　（4）T　（5）F　（6）T　（7）F
+7. 谢红：我们不能这样了
+（1）F　（2）T　（3）T　（4）F
+8. 方新：这是我最快乐的一天
+（1）他觉得小月好几个星期了，一个电话也没有。
+（2）因为她想让方新一个人想一想，是不是真的想她，是真的喜欢她。
+（3）因为方新想请小月来家里吃饭，想告诉她：他太想她了。
+（4）因为方新想让小月做他的女朋友，但是不知道小月会怎么说。
+（5）因为以前方新不想找北京人。
+（6）因为她觉得，谢红和方新离婚了，但是还可以做朋友。
+（7）因为小月说，她也喜欢方新，也想方新。
+
+===== OEBPS/Text/chapter13.xhtml =====
+CLASSIFICATION: non-story section
+为所有中文学习者（包括华裔子弟）编写的第一套系列化、成规模、原创性的大型分级轻松泛读丛书
+“汉语风”（Chinese Breeze）分级系列读物简介
+“汉语风”（Chinese Breeze）是一套大型中文分级泛读系列丛书。这套丛书以“学习者通过轻松、广泛的阅读提高语言的熟练程度，培养语感，增强对中文的兴趣和学习自信心”为基本理念，根据难度分为8个等级，每一级6—8册，共近60册，每册8,000至30,000字。丛书的读者对象为各类中文学习者，包括海外留学生、汉语专业学生、进修人员，以及海外华裔青少年。根据读者的不同语言程度，分为8个等级：第1级（300词级）、第2级（500词级）、第3级（750词级）、第4级（1100词级）、第5级（1700词级）、第6级（2200词级）、第7级（2500词级）、第8级（3000词级）。
+在内容和语言设计方面，8个等级都遵循“轻松阅读、快乐学习”的原则，借鉴国外分级读物的成功经验，在高频词和简单句型的基础上，通过情节和悬念引发兴趣，让学习者在不知不觉中增加语言接触量。每册书后配有练习题，帮助巩固阅读效果。
+在第1级（300词级）中，本书共用300个常用词，主要句型包括：把字句、被字句、连动句、兼语句、比较句、结果补语、程度补语、可能补语、方向补语，以及离合词的用法。
+第2级（500词级）增加到500个常用词，并在语言结构上扩展到更加复杂的复句和语气表达。
+第3级（750词级）之后，逐步引入更多不同题材和语言风格，让读者在保持可读性的同时接触更丰富的中文表达。
+
+===== OEBPS/Text/chapter14.xhtml =====
+CLASSIFICATION: non-story section
+For the first time ever, Chinese has an extensive series of enjoyable graded readers for non-native speakers and heritage learners of all levels
+ABOUTHànyǔ Fēng(Chinese Breeze)
+Hànyǔ Fēng(Chinese Breeze) is a large-scale graded Chinese reader series. It is designed for learners to improve their language proficiency and reading fluency through extensive, enjoyable reading, while also becoming familiar with Chinese culture and daily life. The series follows the principle of “light reading, happy learning,” and currently consists of nearly 60 titles at eight levels.
+Each level corresponds to a target vocabulary size and gradually increasing structural complexity. Level 1 contains around 300 frequent words and focuses on basic sentence patterns and high-utility structures. Level 2 expands the vocabulary to around 500 words and introduces more complex clause types and discourse features. Higher levels continue adding richer language and broader subject matter while maintaining readability.
+The books in the series are suitable for overseas Chinese learners, heritage learners, university students, short-term trainees, and a wide range of general readers. They are especially appropriate for learners who want more engaging reading beyond standard textbooks.
+
+===== OEBPS/Text/chapter15.xhtml =====
+CLASSIFICATION: non-story section
+“汉语风”系列读物其他分册OtherChinese Breezetitles
+“汉语风”全套共8级近60册，自2007年11月起由北京大学出版社陆续出版。下面是已经出版或近期即将出版的各册书目。请访问北京大学出版社网站（www.pup.cn）关注最新的出版动态。
+Hànyǔ Fēng(Chinese Breeze) series consists of nearly 60 titles at eight language levels. Since November 2007, they have been published successively by Peking University Press. Please visit the PUP website for the latest information.
+第1级（300词级）
+第2级（500词级）
+第3级（750词级）
+第4级（1100词级）
+第5级（1700词级）
+第6级（2200词级）
+第7级（2500词级）
+第8级（3000词级）
