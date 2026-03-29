@@ -12,9 +12,10 @@ Use this checklist before accepting an output file.
 - [ ] Metadata, filenames, or folder structure were not mistaken for readable story content.
 
 ## Bootstrap handling
-- [ ] If the repository initially lacked `input/<BOOK_ID>/`, the default structure was created first.
-- [ ] `input/<BOOK_ID>/book.epub` was created from the directly provided book when needed.
-- [ ] `input/<BOOK_ID>/extracted/` was created when needed.
+- [ ] If any required standardized input was missing, the structure was created or completed first.
+- [ ] `input/<BOOK_ID>/book.epub` was created from the directly provided book when that canonical file was missing.
+- [ ] `input/<BOOK_ID>/extracted/` was created when that folder was missing.
+- [ ] Readable extracted content was added when the fallback content was missing.
 - [ ] Readable extracted content was claimed only if actual readable body text was produced.
 
 ## Section selection
