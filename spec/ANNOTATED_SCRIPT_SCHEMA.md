@@ -60,6 +60,23 @@ Use the highest available readable source in this order:
 
 If the raw EPUB is present but not directly readable, keep treating it as canonical and use the extracted folder operationally.
 
+### Bootstrap policy when only a book is provided
+If the user provides only a book file and `input/<book_id>/` does not already exist, create the default repository structure for that book before transformation.
+
+Bootstrap requirements:
+1. Infer `<book_id>` conservatively from the directly provided book.
+2. Create `input/<book_id>/book.epub` from the provided file.
+3. Create `input/<book_id>/extracted/` and populate it with the best readable extraction available in the current environment.
+4. Do not claim that readable extraction exists unless actual readable body text was produced.
+5. After bootstrap, treat the created `input/<book_id>/` as the canonical transformation unit.
+
+### Connector workflow rule
+When using a GitHub connector or other mediated repository tool:
+- prefer exact-path reads of known files over weak repository-wide search
+- do not treat failed folder enumeration alone as proof that a standardized path is missing
+- keep these failure modes distinct: cannot browse the tree, cannot read a known path, cannot write back to the repository
+- if repository write access exists, write the final output back to `output/<book_id>_annotated_script.md`
+
 ## Scope
 ### Include
 - actual story chapters
@@ -244,6 +261,8 @@ Before finalizing, verify:
 9. no rewriting, translation, or summary was introduced
 10. every dialogue line has a speaker label
 11. the chapter character list includes only speakers used in that chapter
+12. bootstrap actions were completed correctly when the repository initially lacked the book structure
+13. the final output was written back to the repository when write access was available
 
 ## Failure modes
 Invalid output includes:
@@ -254,3 +273,4 @@ Invalid output includes:
 - rewriting the story text
 - mixing content from multiple books
 - output filename not matching the input folder name
+- claiming a bootstrap extraction succeeded when no readable extracted text was produced
