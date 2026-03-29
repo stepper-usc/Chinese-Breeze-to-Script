@@ -60,15 +60,22 @@ Use the highest available readable source in this order:
 
 If the raw EPUB is present but not directly readable, keep treating it as canonical and use the extracted folder operationally.
 
-### Bootstrap policy when only a book is provided
-If the user provides only a book file and `input/<book_id>/` does not already exist, create the default repository structure for that book before transformation.
+### Bootstrap policy when standardized input is missing or incomplete
+If the user provides a book file and any required part of the standardized input is missing, first create or complete the default repository structure for that book before transformation.
+
+Treat all of the following as requiring bootstrap or completion before generation:
+- `input/<book_id>/` does not exist
+- `input/<book_id>/book.epub` is missing
+- `input/<book_id>/extracted/` is missing
+- `input/<book_id>/extracted/` exists but has not been populated with actual readable extracted content
 
 Bootstrap requirements:
 1. Infer `<book_id>` conservatively from the directly provided book.
-2. Create `input/<book_id>/book.epub` from the provided file.
-3. Create `input/<book_id>/extracted/` and populate it with the best readable extraction available in the current environment.
-4. Do not claim that readable extraction exists unless actual readable body text was produced.
-5. After bootstrap, treat the created `input/<book_id>/` as the canonical transformation unit.
+2. Place the directly provided book into `input/<book_id>/book.epub` when that canonical file is missing.
+3. Create `input/<book_id>/extracted/` when it is missing.
+4. Populate `input/<book_id>/extracted/` with the best readable extraction available in the current environment when readable extracted content is missing.
+5. Do not claim that readable extraction exists unless actual readable body text was produced.
+6. After bootstrap or completion, treat `input/<book_id>/` as the canonical transformation unit.
 
 ### Connector workflow rule
 When using a GitHub connector or other mediated repository tool:
