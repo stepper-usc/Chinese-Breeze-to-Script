@@ -1,0 +1,118 @@
+<?xml version="1.0" encoding="utf-8"?>
+<!DOCTYPE ncx PUBLIC "-//NISO//DTD ncx 2005-1//EN"
+ "http://www.daisy.org/z3986/2005/ncx-2005-1.dtd">
+<ncx xmlns="http://www.daisy.org/z3986/2005/ncx/" version="2005-1">
+  <head>
+    <meta name="dtb:uid" content="urn:uuid:7c36b62d-02f8-4e6e-9bc8-722f3c2ca6c9" />
+    <meta name="dtb:depth" content="1" />
+    <meta name="dtb:totalPageCount" content="0" />
+    <meta name="dtb:maxPageNumber" content="0" />
+  </head>
+  <docTitle>
+    <text>错错错（第二版）</text>
+  </docTitle>
+  <navMap>
+    <navPoint id="navPoint-1" playOrder="1">
+      <navLabel>
+        <text>版权页</text>
+      </navLabel>
+      <content src="Text/copyright.xhtml" />
+    </navPoint>
+    <navPoint id="navPoint-2" playOrder="2">
+      <navLabel>
+        <text>目录</text>
+      </navLabel>
+      <content src="Text/TOC.xhtml" />
+    </navPoint>
+    <navPoint id="navPoint-3" playOrder="3">
+      <navLabel>
+        <text>前言</text>
+      </navLabel>
+      <content src="Text/Chapter3.xhtml" />
+    </navPoint>
+    <navPoint id="navPoint-4" playOrder="4">
+      <navLabel>
+        <text>Foreword</text>
+      </navLabel>
+      <content src="Text/Chapter4.xhtml" />
+    </navPoint>
+    <navPoint id="navPoint-5" playOrder="5">
+      <navLabel>
+        <text>主要人物和主要地点 Main Characters and Main Places</text>
+      </navLabel>
+      <content src="Text/Chapter5.xhtml" />
+    </navPoint>
+    <navPoint id="navPoint-6" playOrder="6">
+      <navLabel>
+        <text>1. 有一个小姐死了</text>
+      </navLabel>
+      <content src="Text/Chapter6.xhtml" />
+    </navPoint>
+    <navPoint id="navPoint-7" playOrder="7">
+      <navLabel>
+        <text>2. 第一个证人的话</text>
+      </navLabel>
+      <content src="Text/Chapter7.xhtml" />
+    </navPoint>
+    <navPoint id="navPoint-8" playOrder="8">
+      <navLabel>
+        <text>3. 第二个证人的话</text>
+      </navLabel>
+      <content src="Text/Chapter8.xhtml" />
+    </navPoint>
+    <navPoint id="navPoint-9" playOrder="9">
+      <navLabel>
+        <text>4. 第三个证人的话</text>
+      </navLabel>
+      <content src="Text/Chapter9.xhtml" />
+    </navPoint>
+    <navPoint id="navPoint-10" playOrder="10">
+      <navLabel>
+        <text>5. 第四个证人的话</text>
+      </navLabel>
+      <content src="Text/Chapter10.xhtml" />
+    </navPoint>
+    <navPoint id="navPoint-11" playOrder="11">
+      <navLabel>
+        <text>6. 第五个证人的话</text>
+      </navLabel>
+      <content src="Text/Chapter11.xhtml" />
+    </navPoint>
+    <navPoint id="navPoint-12" playOrder="12">
+      <navLabel>
+        <text>7. 第六个证人的话</text>
+      </navLabel>
+      <content src="Text/Chapter12.xhtml" />
+    </navPoint>
+    <navPoint id="navPoint-13" playOrder="13">
+      <navLabel>
+        <text>8. 错在哪里</text>
+      </navLabel>
+      <content src="Text/Chapter13.xhtml" />
+    </navPoint>
+    <navPoint id="navPoint-14" playOrder="14">
+      <navLabel>
+        <text>9. 这个小姐脸不红</text>
+      </navLabel>
+      <content src="Text/Chapter14.xhtml" />
+    </navPoint>
+    <navPoint id="navPoint-15" playOrder="15">
+      <navLabel>
+        <text>生词表 Vocabulary list</text>
+      </navLabel>
+      <content src="Text/Chapter15.xhtml" />
+    </navPoint>
+    <navPoint id="navPoint-16" playOrder="16">
+      <navLabel>
+        <text>练习 Exercises</text>
+      </navLabel>
+      <content src="Text/Chapter16.xhtml" />
+    </navPoint>
+    <navPoint id="navPoint-17" playOrder="17">
+      <navLabel>
+        <text>练习答案 Answer keys to the exercises</text>
+      </navLabel>
+      <content src="Text/Chapter17.xhtml" />
+    </navPoint>
+  </navMap>
+</ncx>

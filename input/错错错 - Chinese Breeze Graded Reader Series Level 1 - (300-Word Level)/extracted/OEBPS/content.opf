@@ -1,0 +1,105 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes"?>
+<package xmlns="http://www.idpf.org/2007/opf" unique-identifier="BookId" version="2.0">
+  <metadata xmlns:dc="http://purl.org/dc/elements/1.1/" xmlns:opf="http://www.idpf.org/2007/opf">
+    <dc:identifier id="BookId" opf:scheme="UUID">urn:uuid:7c36b62d-02f8-4e6e-9bc8-722f3c2ca6c9</dc:identifier>
+    <dc:title>错错错（第二版）</dc:title>
+    <dc:creator opf:role="aut">刘月华，储诚志</dc:creator>
+    <dc:language>zh-CN</dc:language>
+    <dc:date opf:event="modification">2020-04-09</dc:date>
+    <meta content="0.7.2" name="Sigil version" />
+    <meta name="cover" content="cover.jpg" />
+  </metadata>
+  <manifest>
+    <item href="toc.ncx" id="ncx" media-type="application/x-dtbncx+xml" />
+    <item href="Styles/main.css" id="main.css" media-type="text/css" />
+    <item href="Text/copyright.xhtml" id="copyright.xhtml" media-type="application/xhtml+xml" />
+    <item href="Text/Chapter2.xhtml" id="Chapter2.xhtml" media-type="application/xhtml+xml" />
+    <item href="Text/Chapter3.xhtml" id="Chapter3.xhtml" media-type="application/xhtml+xml" />
+    <item href="Text/Chapter4.xhtml" id="Chapter4.xhtml" media-type="application/xhtml+xml" />
+    <item href="Text/Chapter5.xhtml" id="Chapter5.xhtml" media-type="application/xhtml+xml" />
+    <item href="Text/Chapter6.xhtml" id="Chapter6.xhtml" media-type="application/xhtml+xml" />
+    <item href="Text/Chapter7.xhtml" id="Chapter7.xhtml" media-type="application/xhtml+xml" />
+    <item href="Text/Chapter8.xhtml" id="Chapter8.xhtml" media-type="application/xhtml+xml" />
+    <item href="Text/Chapter9.xhtml" id="Chapter9.xhtml" media-type="application/xhtml+xml" />
+    <item href="Text/Chapter10.xhtml" id="Chapter10.xhtml" media-type="application/xhtml+xml" />
+    <item href="Text/Chapter11.xhtml" id="Chapter11.xhtml" media-type="application/xhtml+xml" />
+    <item href="Text/Chapter12.xhtml" id="Chapter12.xhtml" media-type="application/xhtml+xml" />
+    <item href="Text/Chapter13.xhtml" id="Chapter13.xhtml" media-type="application/xhtml+xml" />
+    <item href="Text/Chapter14.xhtml" id="Chapter14.xhtml" media-type="application/xhtml+xml" />
+    <item href="Text/Chapter15.xhtml" id="Chapter15.xhtml" media-type="application/xhtml+xml" />
+    <item href="Text/Chapter16.xhtml" id="Chapter16.xhtml" media-type="application/xhtml+xml" />
+    <item href="Text/Chapter17.xhtml" id="Chapter17.xhtml" media-type="application/xhtml+xml" />
+    <item href="Text/Chapter18.xhtml" id="Chapter18.xhtml" media-type="application/xhtml+xml" />
+    <item href="Text/Chapter19.xhtml" id="Chapter19.xhtml" media-type="application/xhtml+xml" />
+    <item href="Text/Chapter20.xhtml" id="Chapter20.xhtml" media-type="application/xhtml+xml" />
+    <item href="Images/01.jpg" id="x01.jpg" media-type="image/jpeg" />
+    <item href="Images/02.jpg" id="x02.jpg" media-type="image/jpeg" />
+    <item href="Images/003-1.jpg" id="x003-1.jpg" media-type="image/jpeg" />
+    <item href="Images/003-2.jpg" id="x003-2.jpg" media-type="image/jpeg" />
+    <item href="Images/003-3.jpg" id="x003-3.jpg" media-type="image/jpeg" />
+    <item href="Images/03.jpg" id="x03.jpg" media-type="image/jpeg" />
+    <item href="Images/04.jpg" id="x04.jpg" media-type="image/jpeg" />
+    <item href="Images/05-1.jpg" id="x05-1.jpg" media-type="image/jpeg" />
+    <item href="Images/06-1.jpg" id="x06-1.jpg" media-type="image/jpeg" />
+    <item href="Images/007-1.jpg" id="x007-1.jpg" media-type="image/jpeg" />
+    <item href="Images/007-2.jpg" id="x007-2.jpg" media-type="image/jpeg" />
+    <item href="Images/007-3.jpg" id="x007-3.jpg" media-type="image/jpeg" />
+    <item href="Images/007-4.jpg" id="x007-4.jpg" media-type="image/jpeg" />
+    <item href="Images/007-5.jpg" id="x007-5.jpg" media-type="image/jpeg" />
+    <item href="Images/007-6.jpg" id="x007-6.jpg" media-type="image/jpeg" />
+    <item href="Images/07.jpg" id="x07.jpg" media-type="image/jpeg" />
+    <item href="Images/08.jpg" id="x08.jpg" media-type="image/jpeg" />
+    <item href="Images/09.jpg" id="x09.jpg" media-type="image/jpeg" />
+    <item href="Images/10.jpg" id="x10.jpg" media-type="image/jpeg" />
+    <item href="Images/11.jpg" id="x11.jpg" media-type="image/jpeg" />
+    <item href="Images/12.jpg" id="x12.jpg" media-type="image/jpeg" />
+    <item href="Images/13.jpg" id="x13.jpg" media-type="image/jpeg" />
+    <item href="Images/14.jpg" id="x14.jpg" media-type="image/jpeg" />
+    <item href="Images/15.jpg" id="x15.jpg" media-type="image/jpeg" />
+    <item href="Images/16-1.jpg" id="x16-1.jpg" media-type="image/jpeg" />
+    <item href="Images/17.jpg" id="x17.jpg" media-type="image/jpeg" />
+    <item href="Images/18-2.jpg" id="x18-2.jpg" media-type="image/jpeg" />
+    <item href="Images/19-1.jpg" id="x19-1.jpg" media-type="image/jpeg" />
+    <item href="Images/20.jpg" id="x20.jpg" media-type="image/jpeg" />
+    <item href="Images/21-1.jpg" id="x21-1.jpg" media-type="image/jpeg" />
+    <item href="Images/22-1.jpg" id="x22-1.jpg" media-type="image/jpeg" />
+    <item href="Images/23-3.jpg" id="x23-3.jpg" media-type="image/jpeg" />
+    <item href="Images/24-1.jpg" id="x24-1.jpg" media-type="image/jpeg" />
+    <item href="Images/25-1.jpg" id="x25-1.jpg" media-type="image/jpeg" />
+    <item href="Images/058.jpg" id="x058.jpg" media-type="image/jpeg" />
+    <item href="Images/061.jpg" id="x061.jpg" media-type="image/jpeg" />
+    <item href="Styles/sgc-toc.css" id="sgc-toc.css" media-type="text/css" />
+    <item href="Text/TOC.xhtml" id="TOC.xhtml" media-type="application/xhtml+xml" />
+    <item href="Styles/kindle_cn_toc_css.css" id="kindle_cn_toc_css.css" media-type="text/css" />
+    <item href="Images/cover.jpg" id="cover.jpg" media-type="image/jpeg" />
+    <item href="Text/cover.xhtml" id="cover.xhtml" media-type="application/xhtml+xml" />
+  </manifest>
+  <spine toc="ncx">
+    <itemref idref="cover.xhtml" />
+    <itemref idref="copyright.xhtml" />
+    <itemref idref="TOC.xhtml" />
+    <itemref idref="Chapter2.xhtml" />
+    <itemref idref="Chapter3.xhtml" />
+    <itemref idref="Chapter4.xhtml" />
+    <itemref idref="Chapter5.xhtml" />
+    <itemref idref="Chapter6.xhtml" />
+    <itemref idref="Chapter7.xhtml" />
+    <itemref idref="Chapter8.xhtml" />
+    <itemref idref="Chapter9.xhtml" />
+    <itemref idref="Chapter10.xhtml" />
+    <itemref idref="Chapter11.xhtml" />
+    <itemref idref="Chapter12.xhtml" />
+    <itemref idref="Chapter13.xhtml" />
+    <itemref idref="Chapter14.xhtml" />
+    <itemref idref="Chapter15.xhtml" />
+    <itemref idref="Chapter16.xhtml" />
+    <itemref idref="Chapter17.xhtml" />
+    <itemref idref="Chapter18.xhtml" />
+    <itemref idref="Chapter19.xhtml" />
+    <itemref idref="Chapter20.xhtml" />
+  </spine>
+  <guide>
+    <reference href="Text/TOC.xhtml" title="目录" type="toc" />
+    <reference href="Text/cover.xhtml" title="封面" type="cover" />
+  </guide>
+</package>
