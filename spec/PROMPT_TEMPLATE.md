@@ -13,7 +13,9 @@ Instructions:
 - Treat `input/<BOOK_ID>/book.epub` as canonical.
 - Treat `input/<BOOK_ID>/extracted/` as the readable fallback.
 - If raw EPUB body text is not directly readable, continue with `input/<BOOK_ID>/extracted/`; do not stop.
-- If the repository does not yet contain `input/<BOOK_ID>/`, create the default structure for the provided book first, including `book.epub` and `extracted/`.
+- If any required part of the standardized input is missing, first create or complete it from the directly provided book before generation. This includes missing `input/<BOOK_ID>/`, missing `input/<BOOK_ID>/book.epub`, missing `input/<BOOK_ID>/extracted/`, or missing readable extracted content inside `input/<BOOK_ID>/extracted/`.
+- Place the directly provided book into `input/<BOOK_ID>/book.epub` whenever that canonical file is missing.
+- Create/populate `input/<BOOK_ID>/extracted/` whenever the readable fallback is missing or unreadable.
 - Prefer exact-path reads of known files over weak repository-wide search.
 - Do not treat failed folder browsing alone as proof that a standardized path is missing.
 - Do not generate output from metadata alone.
