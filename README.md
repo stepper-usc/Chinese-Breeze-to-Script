@@ -1,33 +1,14 @@
-# GitHub Repository Layout
+# Annotated Script Spec
 
-This repository is organized for multi-book annotated-script generation.
+Read `ANNOTATED_SCRIPT_SCHEMA.md` first.
 
-```text
-repo/
-  input/
-    <book_id>/
-      book.epub
-      extracted/
-        ...EPUB-extracted contents...
-  output/
-    <book_id>_annotated_script.md
-  spec/
-    README.md
-    ANNOTATED_SCRIPT_SCHEMA.md
-    INPUT_RECOMMENDATIONS.md
-    PROMPT_TEMPLATE.md
-    EDGE_CASES.md
-    MARKDOWN_STYLE_GUIDE.md
-    VALIDATION_CHECKLIST.md
-    examples/
-      chapter_01_example_output.md
-      chapter_01_source_notes.md
-```
+This `spec/` folder defines the canonical transformation rules for converting Chinese graded-reader EPUBs into GitHub-friendly annotated-script markdown.
 
-Primary entry point: `spec/ANNOTATED_SCRIPT_SCHEMA.md`
-
-Operational summary:
-- `input/<book_id>/book.epub` is the canonical source of truth.
-- `input/<book_id>/extracted/` is the operational readable fallback.
-- Generate exactly one file per book: `output/<book_id>_annotated_script.md`.
-- Use GitHub-hosted readable extracted files for actual parsing when connector/runtime access to the raw EPUB is limited.
+Reading order:
+1. `ANNOTATED_SCRIPT_SCHEMA.md`
+2. `INPUT_RECOMMENDATIONS.md`
+3. `PROMPT_TEMPLATE.md`
+4. `MARKDOWN_STYLE_GUIDE.md`
+5. `VALIDATION_CHECKLIST.md`
+6. `EDGE_CASES.md`
+7. `examples/`
