@@ -11,6 +11,12 @@ Use this checklist before accepting an output file.
 - [ ] Otherwise the extracted readable fallback was used.
 - [ ] Metadata, filenames, or folder structure were not mistaken for readable story content.
 
+## Bootstrap handling
+- [ ] If the repository initially lacked `input/<BOOK_ID>/`, the default structure was created first.
+- [ ] `input/<BOOK_ID>/book.epub` was created from the directly provided book when needed.
+- [ ] `input/<BOOK_ID>/extracted/` was created when needed.
+- [ ] Readable extracted content was claimed only if actual readable body text was produced.
+
 ## Section selection
 - [ ] Each section was classified as story chapter, mixed-content story section, or non-story section.
 - [ ] Non-story sections were skipped entirely except front matter needed for character extraction.
@@ -35,6 +41,11 @@ Use this checklist before accepting an output file.
 - [ ] Grounded role labels were used for unnamed speakers when justified.
 - [ ] Uncertainty was marked conservatively when needed.
 - [ ] Each chapter character list includes only speakers used in that chapter.
+
+## Repository workflow
+- [ ] Exact-path file reads were preferred when repository browsing was weak.
+- [ ] Inability to browse the tree was not confused with inability to read a known path.
+- [ ] The final output was written back to the repository when write access was available.
 
 ## Markdown format
 - [ ] The output uses H1 chapter headings.
